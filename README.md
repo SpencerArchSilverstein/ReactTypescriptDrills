@@ -1,4 +1,4 @@
-# Projects made with React, Typescript, Vite, TailwindCSS, and no AI
+### Projects made with React, Typescript, Vite, TailwindCSS, and no AI
 
 Projects:
 1) Tic Tac Toe
