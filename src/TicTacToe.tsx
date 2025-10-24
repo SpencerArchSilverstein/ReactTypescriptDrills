@@ -45,7 +45,7 @@ export default function TicTacToe() {
         return;
       }
     }
-    if (TTT.every((elem, i, arr) => elem !== "")) {
+    if (TTT.every((elem) => elem !== "")) {
       setWinner("TIE");
       return;
     }
