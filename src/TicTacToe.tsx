@@ -57,7 +57,7 @@ export default function TicTacToe() {
   }
   return (
     <>
-      <div className="flex justify-center text-center my-[25%]">
+      <div className="flex justify-center text-center my-[10%]">
         <div>
           <div className="grid grid-cols-3 grid-rows-3 gap-5 ">
             {TTT.map((square, index) => (
